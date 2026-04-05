@@ -1,0 +1,25 @@
+# OpenClaw Workspace Security
+MEMORY.md
+SOUL.md
+HEARTBEAT.md
+IDENTITY.md
+USER.md
+AGENTS.md
+TOOLS.md
+memory/
+.openclaw/
+davinci-news/
+scripts/
+skills/
+chess-mobile/
+draft_flash.txt
+draft_pro.txt
+fetch_news.py
+hugo_extended_0.146.7_linux-amd64.deb
+response.json
+sites.txt
+snake.html
+src/
+*.bak
+*.tmp
+*.log
